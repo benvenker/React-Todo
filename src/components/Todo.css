@@ -1,0 +1,6 @@
+.todo-item {
+  border-bottom: 1px solid lightgray;
+  padding: 1em;
+  width: 45%;
+  color: rgb(77, 77, 77);
+}
